@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "line-truncation-demo"
+    }
+  },
+  "defaultProject": "line-truncation-demo",
+  "cli": {
+    "analytics": false
+  }
 }
