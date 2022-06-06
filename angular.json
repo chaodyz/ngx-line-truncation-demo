@@ -121,7 +121,6 @@
       }
     }
   },
-  "defaultProject": "line-truncation-demo",
   "cli": {
     "analytics": false
   }
